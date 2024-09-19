@@ -1,0 +1,1 @@
+<img class="img-responsive" src="<?=$arOptions['PATH']?>" alt="<?=($arOptions["ALT"] ? $arOptions["ALT"] : $arOption["NAME"])?>" title="<?=($arOptions["TITLE"] ? $arOptions["TITLE"] : $arOption["NAME"])?>" />

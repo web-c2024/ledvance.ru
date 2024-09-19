@@ -1,0 +1,1 @@
+<a class="dark_link" href="mailto:info@vdruzhp8.beget.tech">info@vdruzhp8.beget.tech</a>
